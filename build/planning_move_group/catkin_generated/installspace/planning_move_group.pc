@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/install
+
+Name: planning_move_group
+Description: Description of planning_move_group
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/install/lib 
+Requires: 

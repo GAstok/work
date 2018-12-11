@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/georg/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/georg/catkin_ws/src/beginner_tutorials/include",
+                "/home/georg/catkin_ws/src/leap_ur5/include",
+                "/home/georg/catkin_ws/src/planning_move_group/include",
+                "/home/georg/catkin_ws/src/rviz_plugin_osvr/include",
+                "/home/georg/catkin_ws/src/ur5_path_planning-master/ur5_moveit/include",
+                "/home/georg/catkin_ws/src/ur5_table_description/include",
+                "/home/georg/catkin_ws/src/ur_modern_driver-kinetic-devel/include",
+                "/usr/include",
+                "/usr/include/eigen3"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

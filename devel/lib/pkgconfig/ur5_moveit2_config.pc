@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/devel
+
+Name: ur5_moveit2_config
+Description: Description of ur5_moveit2_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/devel/lib 
+Requires: 

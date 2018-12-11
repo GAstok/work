@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/install
+
+Name: suva1
+Description: Description of suva1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/install/lib 
+Requires: 

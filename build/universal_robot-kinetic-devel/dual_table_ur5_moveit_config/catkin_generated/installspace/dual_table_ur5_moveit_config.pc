@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/install
+
+Name: dual_table_ur5_moveit_config
+Description: Description of dual_table_ur5_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/install/lib 
+Requires: 

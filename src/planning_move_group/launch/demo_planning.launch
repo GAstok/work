@@ -1,0 +1,8 @@
+<launch>
+
+  <include file="$(find ur5_moveit_config)/launch/demo.launch"/>
+
+  <node name="planning_node" pkg="planning_move_group" type="planning_tutorial" respawn="false" output="screen">
+  </node>
+
+</launch>

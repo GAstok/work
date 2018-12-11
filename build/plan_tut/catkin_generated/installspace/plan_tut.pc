@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/install
+
+Name: plan_tut
+Description: Description of plan_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/install/lib 
+Requires: 

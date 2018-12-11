@@ -1,0 +1,2 @@
+beginner_tutorials:leap_motion:leap_ur5:moveit_tutorials:planning_move_group:rviz_plugin_osvr:teleop-robot:ur5_moveit/dual_ur5_moveit_config:ur5_moveit/ur5_moveit_config:ur5_path_planning-master/ur5_custom_config:ur5_path_planning-master/ur5_custom_description:ur5_path_planning-master/ur5_moveit:ur5_table_description:ur_modern_driver-kinetic-devel
+-DCATKIN_DEVEL_PREFIX=/home/georg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/georg/catkin_ws/install -G Unix Makefiles

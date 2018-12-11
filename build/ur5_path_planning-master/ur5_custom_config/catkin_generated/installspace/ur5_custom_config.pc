@@ -1,0 +1,8 @@
+prefix=/home/georg/catkin_ws/install
+
+Name: ur5_custom_config
+Description: Description of ur5_custom_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/georg/catkin_ws/install/lib 
+Requires: 
